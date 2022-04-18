@@ -5,4 +5,4 @@ The goal for Fever was a positive aspect of the Kickstarter Campaign, as it fall
 ## Visualizations
 ![ParentCategoryOutcomesChart_US_1 3 2](https://user-images.githubusercontent.com/102937467/163293665-0c116826-9c8d-4ec1-9f13-eec8da63c4de.png)
 ![OutcomesBasedonLaunchDate_1 3 3](https://user-images.githubusercontent.com/102937467/163293708-52aad433-7334-4be6-b707-27ddc0fae8bb.png)
-![ParentCategoryOutcomesChart_US]("C:\Users\angui\OneDrive\Desktop\Data Analytics Boot Camp\Module 1\ParentCategoryOutcomesChart_US.png") 
+![ParentCategoryOutcomesChart_US]("C:\Users\angui\Documents\Module1Challenge\kickstarter-analysis\ParentCategoryOutcomesChart_US.png")
